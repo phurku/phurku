@@ -1,13 +1,13 @@
 ## 👋 Hello, I’m Phurkima Sherpa
 
-I’m a Cloud & IT Support Engineer based in Sydney, passionate about helping people, solving technical problems, and building modern cloud skills. I enjoy working with Microsoft 365, Azure, Entra ID, and endpoint management tools — and I’m always learning something new.
+I’m a Cloud & IT Support Engineer and Website Developer based in Sydney, passionate about helping people, solving technical problems, and building modern cloud skills. I enjoy working with Microsoft 365, Azure, Entra ID, and endpoint management tools and digitising the business— and I’m always learning something new.
 
 I started my journey in software development (Flutter, Java, frontend), and today I combine that foundation with strong IT support and cloud engineering skills.
 
 ## 🛠 Skills & Technologies
 Cloud & IT Support
-Microsoft 365 Administration (Entra ID (Azure AD)Intune / Endpoint Management, Windows Server & Active Directory, Exchange Online & Outlook Support)
-Ticketing Systems (Jira, ServiceNow)
+Microsoft 365 Administration (Entra ID (Azure AD), Intune / Endpoint Management, Windows Server & Active Directory, Exchange Online & Outlook Support)
+Ticketing Systems (ServiceNow)
 
 ## Cloud Fundamentals
 Azure Identity & Access
@@ -29,35 +29,37 @@ A simple ticketing system built with React + Node.js to track and resolve IT iss
 
 
 ## 💼 Experience
-Level 1 IT Support Engineer — IT Together
-Troubleshooting Microsoft 365, Outlook, Teams
-Managing users in Entra ID
-Device setup, configuration, and support
-Ticket management and customer support
+   Website Developer at Logic Miners
+    Designing and delivering client websites, 3 projects completed successfully.
+    Built responsive, SEO-friendly, modern interfaces.
+    Managing deployments using Vercel and Netlify.
+    Collaborating with clients to understand their business needs.
 
-## Mobile App Developer Intern — Naya Yatra
-Built and tested mobile UI components
-Integrated APIs and fixed bugs
-Collaborated with designers and backend teams
 
-## Frontend Developer — Excelerate
-Developed responsive web interfaces
-
-## Improved UI performance
-
-Integrated APIs and reusable components
+   Level 1 IT Support Engineer Trainee — IT Together
+    Troubleshooting Microsoft 365, Outlook, and Teams
+    Managing users in Entra ID
+    Device setup, configuration, and support
+    Ticket management and customer support
+   
+   Mobile App Developer Intern — Naya Yatra
+    Built and tested mobile UI components
+    Integrated APIs and fixed bugs
+    Collaborated with designers and backend teams
+   
+  Frontend Developer — Excelerate
+   Developed responsive web interfaces
+   
 
 ## 🎓 Certifications
-MS‑900: Microsoft 365 Fundamentals
-AZ‑900: Azure Fundamentals (In Progress)
-ITIL Concepts
+  MS‑900: Microsoft 365 Fundamentals
+  ITIL Concepts
 
- Master of IT — KOI, Sydney
 
 ## 🌱 Currently Learning
-Azure Administrator (AZ‑104)
-Intune automation
-PowerShell for IT Support
+ Azure Administrator (AZ‑104)
+ Intune automation
+ PowerShell for IT Support
 
 ## 🌐 Connect with Me:
 🔗 [*LinkedIn*](https://linkedin.com/in/phurkima-tech)  
