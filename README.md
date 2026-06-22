@@ -62,11 +62,9 @@ A simple ticketing system built with React + Node.js to track and resolve IT iss
  PowerShell for IT Support
 
 ## 🌐 Connect with Me:
-🔗 [*LinkedIn*](https://linkedin.com/in/phurkima-tech)  
-📧 [*Email Me*](mailto:phurku2017@gmail.com)  
+🔗 [*LinkedIn*](https://linkedin.com/in/phurkima-tech)   
 🌐 [*Portfolio Website*](https://www.phurkimasherpa.com/) – Check out my projects and explore my work!
 
----
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=phurku&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)  
@@ -74,7 +72,6 @@ A simple ticketing system built with React + Node.js to track and resolve IT iss
 
 ![](https://komarev.com/ghpvc/?username=phurku&color=blue&style=flat-square)
 
----
 
 ### 🌟 Highlights:
 
